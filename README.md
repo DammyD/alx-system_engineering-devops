@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-I am getting better at being a full stack engineer.
+#alx-system_engineering-devops
+I'm now an ALX Student, this is my first repository as a full-stack engineer.
