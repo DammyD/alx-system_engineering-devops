@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# A Bash script that dispalys Best School 10 times with a for loop.
+
+for ((i = 0; i < 10; i++)); do echo "Best School"; done
