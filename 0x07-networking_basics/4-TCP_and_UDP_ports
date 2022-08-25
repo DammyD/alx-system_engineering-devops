@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# A script that displays listening ports:
+# Proto | Recv-Q | Send-Q | Local Address | Foreign Address | State | PID/Program name
+# Socket = Proto(Protocol) + Local Address (local IP + Port)
+
+sudo netstat -p1
+
